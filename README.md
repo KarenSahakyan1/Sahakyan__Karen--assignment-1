@@ -1,4 +1,4 @@
-# Sahakyan__Kare-n--assignment-1
+# Sahakyan__Karen--assignment-1
 
 
 "Open Sans" from Google Fonts - regular and bold
